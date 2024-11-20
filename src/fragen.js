@@ -1,7 +1,15 @@
 // src/fragen.js
 
 /*
-    add new questions here
+    add new questions here. please refrain from pushing when you don't know what you're doing.
+
+    If fragen.js has been changed, do the following:
+        - git status (check if fragen.js has been changed)
+        - git add src/fragen.js
+        - git commit -m "added questions!"
+        - git push origin main
+
+        - npm run deploy (to update the gh-pages branch)
 */
 
 const fragen = [
@@ -230,7 +238,53 @@ const fragen = [
     "Nenne einen Musiker, den nur du hörst, wenn ihn ein anderer aus der Gruppe kennt, trinke 2 Schlücke.",
     "Ich hab noch nie mein Arsch rasiert.",
     "Ich hab noch nie zu Hentai masturbiert.",
-    "Yu Gi Oh oder Pokémon Karten?"
+    "Yu Gi Oh oder Pokémon Karten?",
+    "Was sind deine Top 3 Influencer die du feierst?",
+    "Daniel darf 5 Schlücke verteilen.",
+    "Jeder, der sich mit Kaugummizigaretten schon mal etwas zu cool gefühlt hat, trinkt einen Schluck.",
+    "Nennt reihum Spiele, die man während einer Autofahrt spielen kann.",
+    "Jeder, der Lakritze mag, trinkt 5 Schlücke.",
+    /* new questions */
+    "Mit wem aus der Gruppe hast du zuletzt geschrieben, ihr beiden trinkt einen Schluck.",
+    "Ich hab noch nie gedacht, dass ich zu viel masturbiere.",
+    "Welchen Generation 1 Starter aus Pokémon wählst du? (Bisasam, Glumanda, Schiggy)",
+    "Wer aus der Runde ist der schlechtechste Gamer?",
+    "Wer aus der Runde ist der beste Gamer?",
+    "Zählt nacheinander Zigarettenmarken auf, bis einer nicht mehr kann.",
+    "Wenn du in einer fiktiven Welt leben müsstest, welche würdest du wählen?",
+    "Welchen Duft kannst du gar nicht ausstehen?",
+    "Welche Chipssorte ist die beste?",
+    "Wann hast du zuletzt ein Buch aus eigenem Interesse gelesen?",
+    "Wenn du weniger als 50 Stunden die letzte Woche geschlafen hast, verteile 3 Schlücke.",
+    "Was halten wir von Percings bei anderen?",
+    "Was ist eine Green Flag für dich auf einem Date?",
+    "Welches Meme der letzten 5 Jahre findest du am nervigsten?",
+    "Welchen Trend der letzten 10 Jahre findest du am stressigsten?",
+    "Welcher Song schwirrt dir aktuell die ganze Zeit im Kopf herum?",
+    "Wie viel Geld hast du schon in deinem Leben für Lego ausgegeben, wenn es über 300€ sind trinke 4 Schlücke.",
+    "Wenn du einen Straßenteppich als Kind hattest, verteile 3 Schlücke.",
+    "Welche Weisheit aus deiner Kindheit ist dir bis heute im Kopf geblieben?",
+    "Stell uns deinen größten 'Hear me out'-Crush vor.",
+    "Trinke so viele Schlücke, wie du Steamspiele in deiner Bibliothek hast, die du weniger als 30 Minuten gespielt hast. (maximal 10)",
+    "Welche Serie oder Film hat dich zuletzt zum ernsthaften Nachdenken gebracht?",
+    "Trink so viele Schlücke wie du Straßenschuhe besitzt.",
+    "Verteile 2 Schlücke wenn du heute geduscht hast, trinke sie wenn nicht.",
+    "Verteile so viel Schlücke wie du deutsche Nachbarländer aufzählen kannst.",
+    "Verteile so viel Schlücke wie du Planeten aus unserem Sonnensystem, in der richtigen Reihenfolge aufzählen kannst, von der Sonne aus startend.",
+    "Verteile 4 Schlücke, wenn du mehr als 7 afrikanische Länder aufzählen kannst.",
+    "Zählt nacheinander Bundesligameister auf, bis einer nicht mehr kann.",
+    "Wann hast du dich zuletzt intim rasiert?",
+    "Verteile so viel Schlücke wie du Schlüssel dabei hast.",
+    "Trinke 2 Schlücke wenn du noch nie Just Dance gespielt hast.",
+    "Ich hab noch nie Tampons gekauft.",
+    "Kaffee oder Tee?",
+    "Warst du schon einmal wahrhaftig verliebt?",
+    "Trinke 2 Schlücke wenn dir schonmal eine Pflanze gestorben ist.",
+    "Welchen kürzlichen Kauf bereust du am meisten?",
+    "Verteile so viel Schlücke wie du Beyblades besessen hast.",
+    "Was ist dein Lieblings Lego Theme?",
+    "Verteile 2 Schlücke wenn du früher einen Cityroller besessen hast.",
+    "Du und die person aus der Gruppe mit der du am längsten nicht mehr geschrieben hast trinken beide einen Schluck."
 ];
 
 
